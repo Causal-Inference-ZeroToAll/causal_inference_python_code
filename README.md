@@ -1,10 +1,8 @@
-# Python Code for _Causal Inference: What If_
+# 内容讲解 和 Python Code for _Causal Inference: What If_
 
-This repo contains Python code for Part II of the book _Causal Inference: What If_, by Miguel Hernán and James Robins ([book site](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)):
+This repo contains 内容讲解 和 Python code for Part II of the book _Causal Inference: What If_, by Miguel Hernán and James Robins ([book site](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)):
 
 > Hernán MA, Robins JM (2020). _Causal Inference: What If_. Boca Raton: Chapman & Hall/CRC.
-
-The code here roughly corresponds to the Stata, R, or SAS programs found at the book site.
 
 
 ## Python dependencies
@@ -35,3 +33,5 @@ The notebooks all assume that the Excel version of the data has been saved in th
 ## Author
 
 James Fiedler, with contributions from [Petty PY Chen](https://github.com/pettypychen) and [Piyush Madan](https://github.com/piyushmadan)
+
+Heyang Gong, 内容讲解部分。
